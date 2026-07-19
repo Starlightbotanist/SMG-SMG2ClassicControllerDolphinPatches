@@ -1,5 +1,5 @@
 # SMG-ClassicController-PAL
-# Original Riivolution patch by Super Hackio https://www.youtube.com/watch?v=0evN_8UFGjA
+# Original Riivolution patch by Super Hackio https://youtu.be/0evN_8UFGjA?si=LNrhfbt0XWt0uJ0h
 # Converted for use with Dolphin's Patch system
 # Only enable Nvidia Style OR All-Stars Style, not both.
 

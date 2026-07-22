@@ -46,7 +46,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 > * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCJ/Individual%20Patches/SMG-Nvidia-NTSCJ.txt)
 > * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCJ/Individual%20Patches/SMG-AllStars-NTSCJ.txt)
 > * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCJ/Individual%20Patches/SMG-SwapLZL-NTSCJ.txt)
-> * [Swap R and ZL](https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/NTSCJ/Individual%20Patches/SMG-SwapRZR-NTSCJ.txt)
+> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCJ/Individual%20Patches/SMG-SwapRZR-NTSCJ.txt)
 >
 > </details>
 >

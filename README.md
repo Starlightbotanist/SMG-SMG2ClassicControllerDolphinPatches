@@ -34,9 +34,9 @@ Classic Controller patches and mapping images, originally created as Riivolution
 > <summary>NTSCU</summary>
 >
 > * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-Nvidia-NTSCU.txt)
-> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-AllStar-NTSCU.txt)
-> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-Swap%20L%20and%20ZL-NTSCU.txt)
-> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-Swap%20R%20and%20ZL-NTSCU.txt)
+> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-AllStars-NTSCU.txt)
+> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-SwapLZL-NTSCU.txt)
+> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-SwapRZR-NTSCU.txt)
 >
 > </details>
 >

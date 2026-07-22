@@ -9,35 +9,26 @@ Classic controller patches, originally created as riivolution files by SuperHack
 
 # Directions on use of codes
 
-Decide on a mapping style
+## 1. Decide on a mapping style
+
 <details>
 <summary><b>SMG</b></summary>
   <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="App Dashboard" width="500">
   <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="App Dashboard" width="500">
 </details>
+
 <details>
 <summary><b>SMG2</b></summary>
-</details>
-<details>
-<summary><b>Android</b></summary>
-
-1. Step 1...
-2. Step 2...
-
-</details>
-
-<details>
-<summary><b>PC(Windows / Linux / macOS)</b></summary>
-
-1. Step 1...
-2. Step 2...
-
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="App Dashboard" width="500">
 </details>
 
 ---
 
+## 2. Copy your code
+
 <details>
-<summary><h2>SMG</h2></summary>
+<summary><b>SMG</b></summary>
 
 <details>
 <summary><b>Individual Patch Files by Region</b></summary>
@@ -87,7 +78,7 @@ Decide on a mapping style
 </details>
 
 <details>
-<summary><h2>SMG2</h2></summary>
+<summary><b>SMG2</b></summary>
 
 <details>
 <summary><b>Individual Patch Files by Region</b></summary>
@@ -143,5 +134,37 @@ Decide on a mapping style
 </details>
 
 </details>
+
+</details>
+
+---
+
+## 3. Add your code to dolphin
+
+<details>
+<summary><b>Android</b></summary>
+
+1. Classic Controller must be mapped in dolphin settings
+2. Long press on the game
+3. Edit cheats
+4. Add New Patch
+5. Give the patch a name (e.g. Classic Controller Nvidia)
+6. Paste your copied code into the code box and press ok
+7. Enable the code
+
+</details>
+
+<details>
+<summary><b>PC</b></summary>
+
+1. Classic Controller must be mapped in dolphin settings
+2. Right click on the game and go to properties
+3. Go to Game Config, Editor, User Config
+4. Find or create the header [OnFrame]
+5. Enter a name for your code (e.g. <i>$ Classic Controller Nvidia</i>)
+6. Paste your copied code below the name of the code (example: https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/Dolphin%20Desktop%20Example.png)
+7. Close the properties window
+8. Right click on the game and go to properties, patches
+9. Enable the code
 
 </details>

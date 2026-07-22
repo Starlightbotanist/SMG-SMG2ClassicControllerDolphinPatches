@@ -1,9 +1,9 @@
-# SMG and SMG2 classic controller Dolphin patches
-Classic controller patches and mapping images, originally created as riivolution files by SuperHackio, converted to patches for easier use with Dolphin.
+# SMG and SMG2 Classic Controller Dolphin Patches
+Classic Controller patches and mapping images, originally created as Riivolution files by SuperHackio, converted to patches for easier use with Dolphin.
 
 [Original SMG classic controller riivolution patch by SuperHackio](https://youtu.be/0evN_8UFGjA?si=LNrhfbt0XWt0uJ0h)
 
-[Original SMG2 classic controller riivolution patch by SuperHackio](https://youtu.be/KNAMVv-4W4g?si=bcPmamEiGXJh4DHS)
+[Original SMG2 classic controller riivolution patch by SuperHackio](https://youtu.be/KNAMVv-4W4g?si=bcPmamEiJh4DHS)
 
 ---
 
@@ -139,7 +139,7 @@ Classic controller patches and mapping images, originally created as riivolution
 
 ---
 
-## 3. Add your code to dolphin
+## 3. Add your code to Dolphin
 
 <details>
 <summary><b>Android</b></summary>
@@ -148,8 +148,8 @@ Classic controller patches and mapping images, originally created as riivolution
 2. Long press on the game
 3. Edit cheats
 4. Add New Patch
-5. Give the patch a name (e.g. Classic Controller Nvidia)
-6. Paste your copied code into the code box and press ok
+5. Give the patch a name (e.g., Classic Controller Nvidia)
+6. Paste your copied code into the code box and press OK
 7. Enable the code
 
 </details>
@@ -158,13 +158,13 @@ Classic controller patches and mapping images, originally created as riivolution
 <summary><b>PC</b></summary>
 
 1. Prerequisite: Classic Controller must be mapped
-2. Right click on the game and go to properties
+2. Right-click on the game and go to properties
 3. Go to Game Config, Editor, User Config
-4. Find or create the header [OnFrame]
-5. Enter a name for your code (e.g. <i>$ Classic Controller Nvidia</i>)
+4. Find or create the header `[OnFrame]`
+5. Enter a name for your code (e.g., `$ Classic Controller Nvidia`)
 6. Paste your copied code below the name of the code (example: https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/Dolphin%20Desktop%20Example.png)
 7. Close the properties window
-8. Right click on the game and go to properties, patches
+8. Right-click on the game and go to properties, patches
 9. Enable the code
 
 </details>

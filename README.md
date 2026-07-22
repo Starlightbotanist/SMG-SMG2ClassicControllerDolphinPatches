@@ -13,14 +13,14 @@ Classic Controller patches and mapping images, originally created as Riivolution
 
 <details>
 <summary><b>SMG</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="App Dashboard" width="500">
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="SMG Nvidia" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="SMG AllStars" width="500">
 </details>
 
 <details>
 <summary><b>SMG2</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="App Dashboard" width="500">
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="SMG2 Nvidia" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="SMG2 AllStars" width="500">
 </details>
 
 ---

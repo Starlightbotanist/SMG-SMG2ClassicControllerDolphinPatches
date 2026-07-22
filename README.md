@@ -144,7 +144,7 @@ Classic controller patches, originally created as riivolution files by SuperHack
 <details>
 <summary><b>Android</b></summary>
 
-1. Classic Controller must be mapped in dolphin settings
+1. Prerequisite: Classic Controller must be mapped
 2. Long press on the game
 3. Edit cheats
 4. Add New Patch
@@ -157,7 +157,7 @@ Classic controller patches, originally created as riivolution files by SuperHack
 <details>
 <summary><b>PC</b></summary>
 
-1. Classic Controller must be mapped in dolphin settings
+1. Prerequisite: Classic Controller must be mapped
 2. Right click on the game and go to properties
 3. Go to Game Config, Editor, User Config
 4. Find or create the header [OnFrame]

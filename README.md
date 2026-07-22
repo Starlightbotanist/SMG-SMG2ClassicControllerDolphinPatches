@@ -13,14 +13,14 @@ Classic Controller patches and mapping images, originally created as Riivolution
 
 <details>
 <summary><b>SMG</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="SMG Nvidia" width="500">
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="SMG AllStars" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="App Dashboard" width="500">
 </details>
 
 <details>
 <summary><b>SMG2</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="SMG2 Nvidia" width="500">
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="SMG2 AllStars" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="App Dashboard" width="500">
 </details>
 
 ---
@@ -29,9 +29,6 @@ Classic Controller patches and mapping images, originally created as Riivolution
 
 <details>
 <summary><b>SMG</b></summary>
-
-<details>
-<summary><b>Individual Patch Files by Region</b></summary>
 
 <details>
 <summary><b>NTSCU</b></summary>
@@ -75,13 +72,8 @@ Classic Controller patches and mapping images, originally created as Riivolution
 
 </details>
 
-</details>
-
 <details>
 <summary><b>SMG2</b></summary>
-
-<details>
-<summary><b>Individual Patch Files by Region</b></summary>
 
 <details>
 <summary><b>NTSCU</b></summary>
@@ -130,8 +122,6 @@ Classic Controller patches and mapping images, originally created as Riivolution
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-AllStar-PAL.txt)
 * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-Swap%20L%20and%20ZL-PAL.txt)
 * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-Swap%20R%20and%20ZL-PAL.txt)
-
-</details>
 
 </details>
 

@@ -79,9 +79,9 @@ Classic Controller patches and mapping images, originally created as Riivolution
 > <summary>NTSCU</summary>
 >
 > * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-Nvidia-NTSCU.txt)
-> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-AllStar-NTSCU.txt)
-> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-Swap%20L%20and%20ZL-NTSCU.txt)
-> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-Swap%20R%20and%20ZL-NTSCU.txt)
+> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-AllStars-NTSCU.txt)
+> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-SwapLZL-NTSCU.txt)
+> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-SwapRZR-NTSCU.txt)
 >
 > </details>
 >
@@ -89,9 +89,9 @@ Classic Controller patches and mapping images, originally created as Riivolution
 > <summary>NTSCJ</summary>
 >
 > * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-Nvidia-NTSCJ.txt)
-> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-AllStar-NTSCJ.txt)
-> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-Swap%20L%20and%20ZL-NTSCJ.txt)
-> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-Swap%20R%20and%20ZL-NTSCJ.txt)
+> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-AllStars-NTSCJ.txt)
+> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-SwapLZL-NTSCJ.txt)
+> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-SwapRZR-NTSCJ.txt)
 >
 > </details>
 >
@@ -99,9 +99,9 @@ Classic Controller patches and mapping images, originally created as Riivolution
 > <summary>NTSCK</summary>
 >
 > * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-Nvidia-NTSCK.txt)
-> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-AllStar-NTSCK.txt)
-> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-Swap%20L%20and%20ZL-NTSCK.txt)
-> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-Swap%20R%20and%20ZL-NTSCK.txt)
+> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-AllStars-NTSCK.txt)
+> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-SwapLZL-NTSCK.txt)
+> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-SwapRZR-NTSCK.txt)
 >
 > </details>
 >
@@ -109,9 +109,9 @@ Classic Controller patches and mapping images, originally created as Riivolution
 > <summary>NTSCW</summary>
 >
 > * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-Nvidia-NTSCW.txt)
-> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-AllStar-NTSCW.txt)
-> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-Swap%20L%20and%20ZL-NTSCW.txt)
-> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-Swap%20R%20and%20ZL-NTSCW.txt)
+> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-AllStars-NTSCW.txt)
+> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-SwapLZL-NTSCW.txt)
+> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-SwapRZR-NTSCW.txt)
 >
 > </details>
 >
@@ -119,9 +119,9 @@ Classic Controller patches and mapping images, originally created as Riivolution
 > <summary>PAL</summary>
 >
 > * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-Nvidia-PAL.txt)
-> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-AllStar-PAL.txt)
-> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-Swap%20L%20and%20ZL-PAL.txt)
-> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-Swap%20R%20and%20ZL-PAL.txt)
+> * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-AllStars-PAL.txt)
+> * [Swap L and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-SwapLZL-PAL.txt)
+> * [Swap R and ZL](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-SwapRZR-PAL.txt)
 >
 > </details>
 

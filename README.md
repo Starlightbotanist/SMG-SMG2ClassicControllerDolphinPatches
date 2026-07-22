@@ -13,14 +13,14 @@ Classic Controller patches and mapping images, originally created as Riivolution
 
 <details>
 <summary><b>SMG</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="App Dashboard" width="500">
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="SMG Nvidia" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="SMG AllStars" width="500">
 </details>
 
 <details>
 <summary><b>SMG2</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="App Dashboard" width="500">
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="SMG2 Nvidia" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="SMG2 AllStars" width="500">
 </details>
 
 ---
@@ -152,7 +152,10 @@ Classic Controller patches and mapping images, originally created as Riivolution
 3. Go to Game Config, Editor, User Config
 4. Find or create the header `[OnFrame]`
 5. Enter a name for your code (e.g., `$ Classic Controller Nvidia`)
-6. Paste your copied code below the name of the code (example: https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/Dolphin%20Desktop%20Example.png)
+6. Paste your copied code below the name of the code
+   
+   <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/Dolphin%20Desktop%20Example.png" alt="Settings Example" width="500">
+   
 7. Close the properties window
 8. Right-click on the game and go to properties, patches
 9. Enable the code

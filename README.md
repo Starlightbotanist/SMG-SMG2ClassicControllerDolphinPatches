@@ -1,5 +1,5 @@
 # SMG and SMG2 classic controller Dolphin patches
-Classic controller patches, originally created as riivolution files by SuperHackio, converted to patches for easier use with Dolphin.
+Classic controller patches and mapping images, originally created as riivolution files by SuperHackio, converted to patches for easier use with Dolphin.
 
 [Original SMG classic controller riivolution patch by SuperHackio](https://youtu.be/0evN_8UFGjA?si=LNrhfbt0XWt0uJ0h)
 

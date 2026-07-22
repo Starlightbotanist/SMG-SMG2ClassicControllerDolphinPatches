@@ -13,14 +13,14 @@ Classic Controller patches and mapping images, originally created as Riivolution
 
 <details>
 <summary><b>SMG</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="App Dashboard" width="500">
   <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-Nvidia.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG/Mapping-SMG-AllStars.png" alt="App Dashboard" width="500">
 </details>
 
 <details>
 <summary><b>SMG2</b></summary>
-  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="App Dashboard" width="500">
   <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-Nvidia.png" alt="App Dashboard" width="500">
+  <img src="https://github.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/blob/main/SMG2/Mapping-SMG2-AllStars.png" alt="App Dashboard" width="500">
 </details>
 
 ---
@@ -31,7 +31,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 <summary><b>SMG</b></summary>
 
 <details>
-<summary><b>NTSCU</b></summary>
+<summary>NTSCU</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-Nvidia-NTSCU.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCU/Individual%20Patches/SMG-AllStar-NTSCU.txt)
@@ -41,7 +41,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 </details>
 
 <details>
-<summary><b>NTSCJ</b></summary>
+<summary>NTSCJ</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCJ/Individual%20Patches/SMG-Nvidia-NTSCJ.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCJ/Individual%20Patches/SMG-AllStar-NTSCJ.txt)
@@ -51,7 +51,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 </details>
 
 <details>
-<summary><b>NTSCK</b></summary>
+<summary>NTSCK</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCK/Individual%20Patches/SMG-Nvidia-NTSCK.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/NTSCK/Individual%20Patches/SMG-AllStar-NTSCK.txt)
@@ -61,7 +61,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 </details>
 
 <details>
-<summary><b>PAL</b></summary>
+<summary>PAL</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/PAL/Individual%20Patches/SMG-Nvidia-PAL.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG/PAL/Individual%20Patches/SMG-AllStar-PAL.txt)
@@ -76,7 +76,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 <summary><b>SMG2</b></summary>
 
 <details>
-<summary><b>NTSCU</b></summary>
+<summary>NTSCU</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-Nvidia-NTSCU.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCU/Individual%20Patches/SMG2-AllStar-NTSCU.txt)
@@ -86,7 +86,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 </details>
 
 <details>
-<summary><b>NTSCJ</b></summary>
+<summary>NTSCJ</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-Nvidia-NTSCJ.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCJ/Individual%20Patches/SMG2-AllStar-NTSCJ.txt)
@@ -96,7 +96,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 </details>
 
 <details>
-<summary><b>NTSCK</b></summary>
+<summary>NTSCK</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-Nvidia-NTSCK.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCK/Individual%20Patches/SMG2-AllStar-NTSCK.txt)
@@ -106,7 +106,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 </details>
 
 <details>
-<summary><b>NTSCW</b></summary>
+<summary>NTSCW</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-Nvidia-NTSCW.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/NTSCW/Individual%20Patches/SMG2-AllStar-NTSCW.txt)
@@ -116,7 +116,7 @@ Classic Controller patches and mapping images, originally created as Riivolution
 </details>
 
 <details>
-<summary><b>PAL</b></summary>
+<summary>PAL</summary>
 
 * [Nvidia](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-Nvidia-PAL.txt)
 * [AllStar](https://raw.githubusercontent.com/Starlightbotanist/SMG-SMG2ClassicControllerDolphinPatches/refs/heads/main/SMG2/PAL/Individual%20Patches/SMG2-AllStar-PAL.txt)

@@ -1,4 +1,2 @@
-# Swap R with ZR
 0x80000A88:dword:0x700C0004
-# Swap ZR with R
 0x80000AA8:dword:0x700C0200

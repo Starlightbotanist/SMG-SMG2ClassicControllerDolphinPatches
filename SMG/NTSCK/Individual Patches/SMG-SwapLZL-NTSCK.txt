@@ -1,4 +1,2 @@
-# Swap L with ZL
 0x80000B2C:dword:0x700C0080
-# Swap ZL with L
 0x80000B1C:dword:0x700C2000
